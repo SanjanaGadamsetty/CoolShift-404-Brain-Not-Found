@@ -70,7 +70,7 @@ The more water saved, the higher the level.
 ## 🚀 How to Run Locally
 
 1. Clone the repository:
-git clone https://github.com/YOUR_USERNAME/CoolShift-404-Brain-Not-Found.git
+git clone https://github.com/SanjanaGadamsetty/CoolShift-404-Brain-Not-Found.git
 
 2. Open the folder
 
