@@ -75,5 +75,3 @@ git clone https://github.com/SanjanaGadamsetty/CoolShift-404-Brain-Not-Found.git
 2. Open the folder
 
 3. Open index.html in your browser
-
-No backend required.
